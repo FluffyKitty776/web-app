@@ -1,0 +1,14 @@
+body {
+	padding-top: 5rem;
+}
+.starter-template {
+	padding: 3rem 1.5rem;
+	text-align: center;
+}
+.starter-template {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(50deg);
+    -ms-transform: rotate(50deg);
+    -o-transform: rotate(50deg);
+	transform: rotate(50deg);
+}
